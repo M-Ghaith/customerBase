@@ -1,0 +1,40 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "Ghiath Alseirawan",
+      "age": "24",
+      "email": "ghaith@gmail.com"
+    },
+    {
+      "id": "2",
+      "name": "John Watson",
+      "age": "45",
+      "email": "john@gmail.com"
+    },
+    {
+      "id": "3",
+      "name": "Adam Smith",
+      "age": "51",
+      "email": "adam@gmail.com"
+    },
+    {
+      "id": "4",
+      "name": "Mayasa Karbes",
+      "age": "29",
+      "email": "mayasa@gmail.com"
+    },
+    {
+      "id": "5",
+      "name": "Zaid Google",
+      "age": "24",
+      "email": "zaid@gmail.com"
+    },
+    {
+      "name": "benebe",
+      "email": "benebe",
+      "age": 4,
+      "id": "m1YALeh"
+    }
+  ]
+}
